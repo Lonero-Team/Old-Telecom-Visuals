@@ -2,7 +2,7 @@
 Let us look at Old Telecom in just one "area"
 
 ### Treemap Visualization:
-![N|Treemap](https://raw.githubusercontent.com/Mentors4EDU/Old-Telecom-Case-Study/master/Circular.png?token=AC7MIJMJZQDJYTFBGAQO36K6FSNNK)
+![N|Treemap](https://raw.githubusercontent.com/Mentors4EDU/Old-Telecom-Case-Study/master/Demo%201.png?token=AC7MIJNVH55B2CWP44GWHC26FSNPS)
 > Graphed: Town, Georeferences, Carrier 2 Category, and Longitude
 
 ### Circular Dendrogram:
