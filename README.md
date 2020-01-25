@@ -6,7 +6,7 @@ Let us look at Old Telecom in just one "area"
 > Graphed: Town, Georeferences, Carrier 2 Category, and Longitude
 
 ### Circular Visualization
-![N|Circular](https://raw.githubusercontent.com/Mentors4EDU/Old-Telecom-Case-Study/master/Circular.png?token=AC7MIJKKWL7ABK6HV2GIJ6S6FSMRE)
+![N|Circular](https://raw.githubusercontent.com/Mentors4EDU/Old-Telecom-Case-Study/master/Circular.png?token=AC7MIJL2LCBH5R2ILLK6NKK6FSNFO)
 
 Graphed w/ [RAWGraphs](https://app.rawgraphs.io/)
 
